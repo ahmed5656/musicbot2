@@ -425,7 +425,7 @@ function isYoutube(str) {
      خروج البوت من الروم
      prefix = ${prefix}
      ping = ${Date.now() - message.createdTimestamp}ms
-     By Nawaf   `)
+     By .AhmeeeD #0001   `)
 
       message.channel.send({embed});
 
